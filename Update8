@@ -1,0 +1,26 @@
+Officially removed #main, #market, #recruit channel system
+Added Slot on Critical Ring
+Added @search Command
+Command to search an item or monster in iRO Wiki or RMS
+Added @ii2 Command
+Command to check item descriptions
+Usage @ii2 <ItemID>
+E.G @ii2 3669
+Added @freebies Command
+Command that will give you Freebies Box
+Freebies Box Contains: (Need level 255 to open the box)
+x1 White Valkyrie Helm (ID: 3669)
+x2 White Valkyrie Armor (ID: 3670)
+x2 White Valkyrie Shield (ID: 3671)
+x2 White Valkyrie Manteau (ID: 3672)
+x1 White Valkyrie Shoes (ID: 3673)
+x1 Black Feather Beret
+x10 Bloody Branch
+x10 Yggdrasil Berry Box
+x10 Box of Thunder Box
+x1 Credit
+Added Event Reward NPC at Prontera 129 191
+For Event Winners
+Bug Reporter Award
+Added 4 New Donation Items at Donation Ticket Shop
+Added 6 New Headgears at Donation Bonus Points Shop
