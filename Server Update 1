@@ -71,8 +71,8 @@ Added @ii2 Command
 Command to check item descriptions
 Usage @ii2 <ItemID>
 E.G @ii2 3669
-Added @freebies Command
-Command that will give you Freebies Box
+Added Freebies NPC
+NPC will give you Freebies Box
 Freebies Box Contains: (Need level 255 to open the box)
 x1 White Valkyrie Helm (ID: 3669)
 x2 White Valkyrie Armor (ID: 3670)
