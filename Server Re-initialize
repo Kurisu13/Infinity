@@ -1,15 +1,17 @@
 Rates: 3k/3k/10k (Cards drop rates: 600x)
-
+Server type: Frost Server
+Episode: 13.2 Encounter with the Unknown
 Max level: 255/100
-
 Max stats: 255
-
+Max aspd: 197
 Max storage capacity: 1000
-
+Max Zeny: 2,000,000,000
+Server timezone: GMT +8
+Main Language: English/Tagalog
+Max Party Size: 20 members
+Max Guild Size: 27 members
 Emulator: Hercules (heavily moded and customized)
-
 Type: PK (Player Killable) means you can attack other players (and being attacked) after reaching level 70 (you can attack everywhere except in towns).
-
 Commands: @go, @who2, @warp, @autoloot, @storage, @gstorage, @mi, @me, @autotade, @mi, @ii
 
 WOE: TBD
